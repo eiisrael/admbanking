@@ -1,4 +1,4 @@
-## LEIA-ME ##1
+## LEIA-ME APP ##
 
 Iniciativa dos alunos do Curso de Python Caça talentos da ADMtec.
 O intuito da aplicação é aperfeiçoar e colocar em prática o que é apresentado no curso.
