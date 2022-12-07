@@ -2,7 +2,7 @@ import csv
 from time import sleep
 
 def menu():
-        print("~ S L E E P - D O O L ~")
+        print("~ PAXIS META.UNIVERSE ~")
         print('\n  [1]LOGIN [2]REGISTRO [3]SAIR')
 
         try:
